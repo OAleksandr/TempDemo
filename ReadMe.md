@@ -11,5 +11,5 @@ You can create un-ordered lists:
 
 And you can create ordered lists:
 
-1.First do this.
-1.Then do that.
+1. First do this.
+1. Then do that.
